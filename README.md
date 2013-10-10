@@ -1,4 +1,4 @@
-## Cucumber Appium Android ##
+## Cucumber Appium Android Example ##
 
 This project demonstrates BDD tests automated on an Android device powered by Cucumber and Appium
 
