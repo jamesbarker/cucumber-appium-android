@@ -31,5 +31,5 @@ Steps:
  
   - Run the BDD tests
     CMD$ bundle install
-    CMD% bundle exec cucumber
+    CMD$ bundle exec cucumber
 
